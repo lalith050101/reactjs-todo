@@ -57,7 +57,7 @@ class App extends React.Component {
     return (
       <div>
         <h1 className="app-title"> ToDo </h1>
-        <img src={logo} width="300" height="250" className="logo" />
+        <img src={logo} width="300" height="250" className="logo" alt="" />
 
         <div className="container">
           Add an Item....
